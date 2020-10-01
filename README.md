@@ -51,10 +51,9 @@ f)Then tap 👇👇
  Heroku is not supported now 😕 #Dead
 
 Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
-
+Use of Linux VPS
 ### The Legacy Way
 Simply clone the repository and run the main file:
-
 ```sh
 git clone https://github.com/SpEcHiDe/PublicLeech.git
 cd PublicLeech
